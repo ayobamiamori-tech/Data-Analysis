@@ -1,2 +1,2 @@
-# Data-Analysis
-this is where I built my first portfolio while learning at the Incubator Hub
+# Data-Analysis Project
+This is where I built my first portfolio while learning at the Incubator Hub
